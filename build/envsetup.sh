@@ -717,7 +717,7 @@ function octavirebase() {
 }
 
 function mka() {
-    m
+    m "$@"
 }
 
 function cmka() {
