@@ -154,8 +154,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_DEXPREOPT_SPEED_APPS += \
     SystemUI
 
-DEVICE_FRAMEWORK_COMPATIBILITY_MATRIX_FILE += vendor/octavi/config/device_framework_matrix.xml
-
 PRODUCT_BROKEN_VERIFY_USES_LIBRARIES := true
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/octavi/overlay
 PRODUCT_PACKAGE_OVERLAYS += vendor/octavi/overlay/common
