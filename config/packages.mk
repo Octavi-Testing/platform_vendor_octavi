@@ -5,7 +5,8 @@ PRODUCT_PACKAGES += \
 # Octavi packages
 PRODUCT_PACKAGES += \
     Updater \
-    ThemePicker
+    ThemePicker \
+    GamingMode \
 
 # Extra tools in Awaken
 PRODUCT_PACKAGES += \
